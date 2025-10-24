@@ -1,0 +1,12 @@
+# Core Vision Libraries (install with pip)
+opencv-python-headless
+numpy
+
+# Object Detection Framework (YOLOv8)
+ultralytics
+
+# High-Performance Video Capture/Processing (Recommended for Linux/RTSP)
+imutils
+
+# Asynchronous processing (built-in, usually not needed in requirements)
+# concurrent.futures
